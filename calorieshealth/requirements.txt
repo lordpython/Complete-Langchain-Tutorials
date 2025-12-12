@@ -6,3 +6,4 @@ PyPDF2
 chromadb
 faiss-cpu
 pdf2image
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
