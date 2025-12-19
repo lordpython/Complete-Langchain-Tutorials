@@ -6,3 +6,4 @@ PyPDF2
 chromadb
 faiss-cpu
 pdf2image
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
